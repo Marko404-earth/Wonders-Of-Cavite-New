@@ -77,7 +77,7 @@
   }
   
   .sidebar nav a { 
-    display: block; 
+    display: flex; 
     color: #11151a; 
     text-decoration: none; 
     padding: 8px 10px; 
@@ -240,4 +240,5 @@
       grid-template-columns: 1fr;
       gap: 20px;
     }
+
   }
